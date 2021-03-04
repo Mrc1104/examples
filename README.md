@@ -1,3 +1,6 @@
+## Example README for PR Requests
+This README.md is used for students to practice pull requests
+
 # CS3560 - Example Project
 
 Example project that uses Doxygen, Makefile, Catch2, Travis CI.
