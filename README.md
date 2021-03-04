@@ -1,5 +1,5 @@
 ## Example README for PR Requests
-This README.md is used for students to practice pull requests
+This README.md is used for students to practice pull requests (added by Ryan Conaway, mc321015. Github: Mrc1104)
 
 # CS3560 - Example Project
 
