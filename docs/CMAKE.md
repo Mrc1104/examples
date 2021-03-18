@@ -6,17 +6,19 @@ Cmake is a cross-platform tool that automates a build process for projects. CMak
 
 The most minimum cmake setup is compiling a lone executable. All you need is a CmakeLists.txt
 
-CmakeLists.txt:
-```project( "project name" )```
+```cmake
+#CmakeLists.txt:
+project( "project name" )
 
-```add_executable( "name" "sourcefile")```
+add_executable( "name" "sourcefile")
+```
 
 # How to compile applications that use cmake?
 
 * Use the Cmake command pathed to the source dir: 
-```$cmake /path/to/source ```
+```cmake /path/to/source ```
 
 * Then call the build files that were generated: 
-```$make```
+```make```
 
 * The cmake Program is now compiled
